@@ -21,3 +21,6 @@ expressoot "test"
 
 Clear History 
 Remove-Item (Get-PSReadlineOption).HistorySavePath
+
+
+AQ.Ab8RN6Jw####R4c9pi5ks####1Cf1URFqsd0xeB-xex####3JVjGoWSBQ1239A
