@@ -23,4 +23,12 @@ Clear History
 Remove-Item (Get-PSReadlineOption).HistorySavePath
 
 
-AQ.Ab8RN6J####9ktJhLmuIEAomu####EhVaP3x3dKvolky####jeX1EtqBt9-gvg
+1. zaSyACdJ####g5vQcis####tPjB6cuOCGk####PgZH6Q05McI
+2. AIzaSy####DHTuiePA_9####ZBZTKS-XEqlZ####KAFsUroniJI
+3. AQ.A####b8RN6JpF####YGivaW9Uc_Kf3D####bQ6aGT13fgCfzJmuLoYN0PQF6LQ
+
+4. AIza####SyD####uv3vAI####n6ZcQ4Y_11HgLul3RBgYyPh9kw
+5. AQ.Ab8RN6J####gEuVn####TeeRp57ERB7pufe8####xwO7LcOFFVy9VUfcqcLgFQ
+
+6. AIza####SyAuB6uX####lAXxyz####yQMaS_ey-xjan6-BMzF4g
+7. A####Q.Ab8RN6I5####KuSjurd_jwxjoOmm0Y####oSJ4LeE_9mBsgYX0rBzO190w
